@@ -7,7 +7,7 @@ This is the source code that supports my *16-Bit Computer From Scratch* project.
 
 ## Videos
 
-I am documenting my 16-Bit Computer build in video form.  You can find the entire playlist[here](https://www.youtube.com/playlist?list=PLUF7WfBe0k3g9wpTtg41QP3jl5y8T1aGV).
+I am documenting my 16-Bit Computer build in video form.  You can find the entire playlist [here](https://www.youtube.com/playlist?list=PLUF7WfBe0k3g9wpTtg41QP3jl5y8T1aGV).
 
 
 ---
